@@ -1,0 +1,1 @@
+"# Smooth Array for Javascript" 
